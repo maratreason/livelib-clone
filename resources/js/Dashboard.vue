@@ -1,6 +1,6 @@
 <template>
+    <liv-navigation></liv-navigation>
     <div class="container">
-        <liv-navigation></liv-navigation>
         <router-view></router-view>
     </div>
 </template>

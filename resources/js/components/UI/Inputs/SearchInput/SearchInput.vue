@@ -22,6 +22,7 @@ export default {
 <style lang="scss">
 .search {
     position: relative;
+    margin-left: 40px;
     svg {
         height: 10px;
         position: absolute;

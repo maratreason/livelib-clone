@@ -17,5 +17,7 @@ export default {
 .notify {
     width: 40px;
     height: 40px;
+    margin-left: auto;
+    margin-right: 10px;
 }
 </style>
